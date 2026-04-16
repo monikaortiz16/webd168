@@ -9,7 +9,6 @@ h1 {
   color: rgb(207, 80, 21);
   text-align: left;
   font-size: 40px;
-  font-weight: 20%;
   text-decoration-line: underline;
   text-decoration-thickness: auto;
   margin-left: 10px;
@@ -28,7 +27,6 @@ header {
   color: rgb(252, 238, 110);
   text-align: center;
   font-size: 50px;
-  font-weight: 20%;
   height: auto;
   margin: 10px;
 }
