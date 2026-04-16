@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(245, 220, 209);
+  border-style: dotted;
+  border-color: rgb(207, 80, 21);
+  border-width: 5px;
+}
+
+h1 {
+  color: rgb(207, 80, 21);
+  text-align: left;
+  font-size: 40px;
+  font-weight: 20%;
+  text-decoration-line: underline;
+  text-decoration-thickness: auto;
+  margin-left: 10px;
+}
+
+p {
+  font-family: garamond;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  margin-left: 10px;
+}
+
+
+header {
+  background-color: rgb(207, 80, 21);
+  color: rgb(252, 238, 110);
+  text-align: center;
+  font-size: 50px;
+  font-weight: 20%;
+  height: auto;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: circle;
+  font-size: 17px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  width: 70%;
+}
